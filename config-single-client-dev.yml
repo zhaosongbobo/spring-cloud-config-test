@@ -1,5 +1,5 @@
 data:
   env: sinle-client-env
-user:
-  username: bobo1
-  password: 123
+  user:
+    username: bobo1
+    password: 123
