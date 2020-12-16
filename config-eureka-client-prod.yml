@@ -1,0 +1,5 @@
+data:
+  env: eureka-client-prod
+user:
+  username: bobo4
+  password: 123456
